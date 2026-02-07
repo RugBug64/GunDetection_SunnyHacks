@@ -1,4 +1,5 @@
-# GunDetection_RandomForestHackathon
+# GunDetection_SunnyHacks
+
 Here is a project to prevent gun violence, this is for the Random Forest Hackathon.
 
 ## Inspiration
@@ -27,7 +28,7 @@ One of the challenges I encountered was the integration of police officer detect
 Additionally, Roboflow's licensing restrictions prevent users from downloading models as .pt files, which forced me to use the Roboflow API to access the model. This introduces a limitation, as the system currently cannot run offline. Nonetheless, I am continuing to explore potential solutions to address these challenges.
 
 
-## Accomplishments that we're proud of
+## Accomplishments that I'm proud of
 
 One accomplishment I take great pride in is successfully configuring my program to accurately identify a gun, even when it is displayed on a phone screen. This marks a notable improvement, as similar attempts in previous projects faced significant challenges in achieving accurate recognition under such conditions.
 
